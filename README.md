@@ -1,3 +1,6 @@
+Link: https://stoic-kilby-4e8101.netlify.app/
+Backend: https://github.com/sakinfens/serverside
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
